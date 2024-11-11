@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/images/swift-shuttle-high-resolution-logo-grayscale.png",
       "resizeMode": "contain",
-      "backgroundColor": "white"
+      "backgroundColor": "FFFAFA"
     },
     "ios": {
       "supportsTablet": true
@@ -18,7 +18,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/swift-shuttle-high-resolution-logo-grayscale.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#FFFAFA"
       }
     },
     "web": {
